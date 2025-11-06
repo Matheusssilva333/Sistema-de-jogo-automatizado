@@ -1,0 +1,1 @@
+# Comandos de automação, ataques e outras funcionalidades do bot 
